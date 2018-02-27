@@ -587,11 +587,11 @@
     </hop>
     <hop>
       <from>Get Variables</from>
-      <to>error_mail_send_flag = 1</to>
+      <to>error_mail_send_flag = 0</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>error_mail_send_flag = 1</from>
+      <from>error_mail_send_flag = 0</from>
       <to>Formula</to>
       <enabled>Y</enabled>
     </hop>
@@ -843,7 +843,7 @@
     </GUI>
   </step>
   <step>
-    <name>error_mail_send_flag = 1</name>
+    <name>error_mail_send_flag = 0</name>
     <type>FilterRows</type>
     <description/>
     <distribute>Y</distribute>
@@ -864,7 +864,7 @@
         <value>
           <name>constant</name>
           <type>String</type>
-          <text>1</text>
+          <text>0</text>
           <length>-1</length>
           <precision>-1</precision>
           <isnull>N</isnull>
