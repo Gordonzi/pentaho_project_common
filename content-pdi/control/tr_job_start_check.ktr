@@ -436,32 +436,32 @@
   </info>
   <notepads>
     <notepad>
-      <note>job_control</note>
-      <xloc>96</xloc>
+      <note>Job Control</note>
+      <xloc>384</xloc>
       <yloc>32</yloc>
-      <width>85</width>
-      <heigth>30</heigth>
+      <width>82</width>
+      <heigth>28</heigth>
       <fontname>Segoe UI</fontname>
-      <fontsize>9</fontsize>
-      <fontbold>N</fontbold>
+      <fontsize>10</fontsize>
+      <fontbold>Y</fontbold>
       <fontitalic>N</fontitalic>
       <fontcolorred>0</fontcolorred>
       <fontcolorgreen>0</fontcolorgreen>
       <fontcolorblue>0</fontcolorblue>
       <backgroundcolorred>255</backgroundcolorred>
-      <backgroundcolorgreen>205</backgroundcolorgreen>
-      <backgroundcolorblue>112</backgroundcolorblue>
-      <bordercolorred>100</bordercolorred>
-      <bordercolorgreen>100</bordercolorgreen>
-      <bordercolorblue>100</bordercolorblue>
+      <backgroundcolorgreen>255</backgroundcolorgreen>
+      <backgroundcolorblue>255</backgroundcolorblue>
+      <bordercolorred>255</bordercolorred>
+      <bordercolorgreen>255</bordercolorgreen>
+      <bordercolorblue>255</bordercolorblue>
       <drawshadow>Y</drawshadow>
     </notepad>
     <notepad>
       <note>Based on ${V_JOB_NAME}</note>
-      <xloc>64</xloc>
-      <yloc>224</yloc>
-      <width>181</width>
-      <heigth>30</heigth>
+      <xloc>160</xloc>
+      <yloc>64</yloc>
+      <width>146</width>
+      <heigth>26</heigth>
       <fontname>Segoe UI</fontname>
       <fontsize>9</fontsize>
       <fontbold>N</fontbold>
@@ -470,11 +470,11 @@
       <fontcolorgreen>0</fontcolorgreen>
       <fontcolorblue>0</fontcolorblue>
       <backgroundcolorred>255</backgroundcolorred>
-      <backgroundcolorgreen>205</backgroundcolorgreen>
-      <backgroundcolorblue>112</backgroundcolorblue>
-      <bordercolorred>100</bordercolorred>
-      <bordercolorgreen>100</bordercolorgreen>
-      <bordercolorblue>100</bordercolorblue>
+      <backgroundcolorgreen>255</backgroundcolorgreen>
+      <backgroundcolorblue>255</backgroundcolorblue>
+      <bordercolorred>192</bordercolorred>
+      <bordercolorgreen>192</bordercolorgreen>
+      <bordercolorblue>192</bordercolorblue>
       <drawshadow>Y</drawshadow>
     </notepad>
   </notepads>
@@ -636,8 +636,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>224</xloc>
-      <yloc>128</yloc>
+      <xloc>288</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -669,8 +669,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>608</xloc>
-      <yloc>64</yloc>
+      <xloc>672</xloc>
+      <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -706,8 +706,8 @@ AND LOGTIME = (
       </output>
     </remotesteps>
     <GUI>
-      <xloc>96</xloc>
-      <yloc>64</yloc>
+      <xloc>160</xloc>
+      <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -744,8 +744,8 @@ AND LOGTIME = (
       </output>
     </remotesteps>
     <GUI>
-      <xloc>480</xloc>
-      <yloc>128</yloc>
+      <xloc>544</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -782,8 +782,8 @@ AND LOGTIME = (
       </output>
     </remotesteps>
     <GUI>
-      <xloc>480</xloc>
-      <yloc>64</yloc>
+      <xloc>544</xloc>
+      <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -837,8 +837,8 @@ AND LOGTIME = (
       </output>
     </remotesteps>
     <GUI>
-      <xloc>352</xloc>
-      <yloc>64</yloc>
+      <xloc>416</xloc>
+      <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
