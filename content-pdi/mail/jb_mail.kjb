@@ -462,7 +462,7 @@
       <replyto>${P_MAIL_SENDER_ADDRESS}</replyto>
       <replytoname>${P_MAIL_SENDER_NAME}</replytoname>
       <subject>${P_MAIL_SUBJECT}</subject>
-      <include_date>N</include_date>
+      <include_date>Y</include_date>
       <contact_person/>
       <contact_phone/>
       <comment>${P_MAIL_COMMENT}</comment>
@@ -480,7 +480,7 @@
       <priority>normal</priority>
       <importance>normal</importance>
       <sensitivity>normal</sensitivity>
-      <secureconnectiontype>SSL</secureconnectiontype>
+      <secureconnectiontype>TLS</secureconnectiontype>
       <replyToAddresses/>
       <filetypes>      </filetypes>
       <embeddedimages>
